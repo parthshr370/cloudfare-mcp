@@ -1,4 +1,4 @@
-# Cloudflare MCP Streamlit Interface
+# Cloudflare MCP with Camel-ai
 
 This project provides a Streamlit-based web interface to interact with public Cloudflare MCP (Model-Controlled Proxy) servers. It allows users to easily query Cloudflare's documentation, get internet traffic insights from Cloudflare Radar, and perform browser actions like fetching web pages or taking screenshots, all powered by CAMEL AI.
 
